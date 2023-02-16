@@ -1,0 +1,21 @@
+
+.app {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+}
+
+.sideBar {
+  height: 100vh;
+  min-width: 20%;
+  background-color: #121212;
+  color: wheat;
+  font-size: 2rem;
+}
+
+.layout {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
